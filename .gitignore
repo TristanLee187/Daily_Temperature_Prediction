@@ -1,0 +1,10 @@
+/.idea/
+/.vscode
+*.class
+*.ipynb_checkpoints/
+data/**/*.csv
+*.keras
+*.npy
+*.png
+*api_key.py
+*credentials.py
