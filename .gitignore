@@ -3,6 +3,7 @@
 *.class
 *.ipynb_checkpoints/
 data/**/*.csv
+!data/**/*all_data.csv
 *.keras
 *.npy
 *.png
